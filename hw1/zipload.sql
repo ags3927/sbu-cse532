@@ -1,0 +1,1 @@
+LOAD FROM "C:\Users\aniganguly\Desktop\code\zipload.csv" of DEL METHOD P(1, 7, 8, 15) REPLACE INTO CSE532.ZIP (ZIP, STATE_ID, COUNTY, POP);

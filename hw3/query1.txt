@@ -1,0 +1,9 @@
+|FACILITY_NAME                                 |ZIPCODE|
+|----------------------------------------------|-------|
+|SAFETY-KLEEN SYSTEMS AMITYVILLE (ANY)         |11701  |
+|AMERICAN ACRYLIC CORP                         |11704  |
+|MAGELLAN AEROSPACE PROCESSING LONG ISLAND INC.|11704  |
+|PINELAWN POWER                                |11704  |
+|CURTISS WRIGHT - TARGET ROCK                  |11735  |
+|ARAMIS INC                                    |11747  |
+|KEDRION BIOPHARMA INC.                        |11747  |

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<author Name="Anoop Gupta" Publication_count="27"/>
+<author Name="Kourosh Gharachorloo" Publication_count="15"/>
+<author Name="David A. Patterson 0001" Publication_count="12"/>
+<author Name="Jaswinder Pal Singh" Publication_count="11"/>
+<author Name="Mark Horowitz" Publication_count="11"/>
+<author Name="Thomas R. Gross" Publication_count="8"/>
+<author Name="Mark A. Heinrich" Publication_count="8"/>
+<author Name="Daniel Lenoski" Publication_count="8"/>
+<author Name="James Laudon" Publication_count="8"/>
+<author Name="Monica S. Lam" Publication_count="7"/>
+<author Name="David Nakahira" Publication_count="6"/>
+<author Name="Norman P. Jouppi" Publication_count="5"/>
+<author Name="Steven A. Przybylski" Publication_count="5"/>
+<author Name="David Ofelt" Publication_count="5"/>
+<author Name="Richard Simoni" Publication_count="5"/>
+<author Name="Truman Joe" Publication_count="5"/>
+<author Name="Josep Torrellas" Publication_count="5"/>
+<author Name="Chris Holt" Publication_count="4"/>
+<author Name="Anant Agarwal" Publication_count="4"/>
+<author Name="Aaron J. Goldberg" Publication_count="4"/>
+<author Name="Peter Steenkiste" Publication_count="4"/>
+<author Name="Christopher Rowen" Publication_count="4"/>
+<author Name="Luis Stevens" Publication_count="3"/>
+<author Name="Jeffrey Kuskin" Publication_count="3"/>
+<author Name="John Heinlein" Publication_count="3"/>
+<author Name="Joel Baxter" Publication_count="3"/>
+<author Name="Mendel Rosenblum" Publication_count="3"/>
+<author Name="Steven W. K. Tjiang" Publication_count="3"/>
+<author Name="Fred C. Chow" Publication_count="3"/>
+<author Name="Vivek Sarkar" Publication_count="3"/>
+<author Name="Forest Baskett" Publication_count="3"/>
+<author Name="John Gill" Publication_count="3"/>
+<author Name="Mark D. Hill" Publication_count="2"/>
+<author Name="Vijayaraghavan Soundararajan" Publication_count="2"/>
+<author Name="Phillip B. Gibbons" Publication_count="2"/>
+<author Name="John Chapin" Publication_count="2"/>
+<author Name="Dror E. Maydan" Publication_count="2"/>
+<author Name="Rohit Chandra" Publication_count="2"/>
+<author Name="Mahadevan Ganapathi" Publication_count="2"/>
+<author Name="Stephen R. Goldschmidt" Publication_count="2"/>
+<author Name="Wolf-Dietrich Weber" Publication_count="2"/>
+<author Name="Helen Davis" Publication_count="2"/>
+<author Name="Richard B. Kieburtz" Publication_count="2"/>
+<author Name="Jon Masters" Publication_count="1"/>
+<author Name="Parthasarathy Ranganathan" Publication_count="1"/>
+<author Name="Paul Turner" Publication_count="1"/>
+<author Name="Onur Mutlu" Publication_count="1"/>
+<author Name="Rich Belgard" Publication_count="1"/>
+<author Name="Chris Rowen" Publication_count="1"/>
+<author Name="Yale N. Patt" Publication_count="1"/>
+<author Name="Wen-mei W. Hwu" Publication_count="1"/>
+<author Name="Stephen W. Melvin" Publication_count="1"/>
+<author Name="Michael Shebanow" Publication_count="1"/>
+<author Name="Tse-Yu Yeh" Publication_count="1"/>
+<author Name="Andy Wolfe" Publication_count="1"/>
+<author Name="Mainak Chaudhuri" Publication_count="1"/>
+<author Name="Edward Rothberg" Publication_count="1"/>
+<author Name="Ben Verghese" Publication_count="1"/>
+<author Name="Ken Kennedy" Publication_count="1"/>
+<author Name="Charles F. Bender" Publication_count="1"/>
+<author Name="John W. D. Connolly" Publication_count="1"/>
+<author Name="Mary K. Vernon" Publication_count="1"/>
+<author Name="Larry Smarr" Publication_count="1"/>
+<author Name="Mark A. Horowitz" Publication_count="1"/>
+<author Name="Radhika Thekkath" Publication_count="1"/>
+<author Name="Amit Pal Singh" Publication_count="1"/>
+<author Name="Susan John" Publication_count="1"/>
+<author Name="Andrew Erlichson" Publication_count="1"/>
+<author Name="Neal Nuckolls" Publication_count="1"/>
+<author Name="Greg Chesson" Publication_count="1"/>
+<author Name="Takashi Totsuka" Publication_count="1"/>
+<author Name="Robert P. Wilson" Publication_count="1"/>
+<author Name="Robert S. French" Publication_count="1"/>
+<author Name="Christopher S. Wilson" Publication_count="1"/>
+<author Name="Saman P. Amarasinghe" Publication_count="1"/>
+<author Name="Jennifer-Ann M. Anderson" Publication_count="1"/>
+<author Name="Shih-Wei Liao" Publication_count="1"/>
+<author Name="Chau-Wen Tseng" Publication_count="1"/>
+<author Name="Mary W. Hall" Publication_count="1"/>
+<author Name="Steven Cameron Woo" Publication_count="1"/>
+<author Name="Peter Schnorf" Publication_count="1"/>
+<author Name="Sarita V. Adve" Publication_count="1"/>
+<author Name="Todd C. Mowry" Publication_count="1"/>
+<author Name="Michael E. Wolf" Publication_count="1"/>
+<author Name="K. Pieper" Publication_count="1"/>
+<author Name="Yigal Brandman" Publication_count="1"/>
+<author Name="Alon Orlitsky" Publication_count="1"/>
+<author Name="Monica Lam 0001" Publication_count="1"/>
+<author Name="Thierry Weil" Publication_count="1"/>
+<author Name="K. Gopinath" Publication_count="1"/>
+<author Name="Scott McFarling" Publication_count="1"/>
+<author Name="Charles N. Fischer" Publication_count="1"/>
+<author Name="Hilding Elmquist" Publication_count="1"/>
+<author Name="Noah Mendelsohn" Publication_count="1"/>
+<author Name="Alex Strong" Publication_count="1"/>
+<author Name="Judson S. Leonard" Publication_count="1"/>
+<author Name="Richard W. Carr" Publication_count="1"/>
+<author Name="Michael J. Flynn" Publication_count="1"/>
+<author Name="P. Carmody" Publication_count="1"/>
+<author Name="A. M. Barone" Publication_count="1"/>
+<author Name="J. K. Morrell" Publication_count="1"/>
+<author Name="A. Weiner" Publication_count="1"/>
